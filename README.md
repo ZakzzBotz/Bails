@@ -28,6 +28,8 @@ Fokus utama: *stabil, ringan, cepat, dan siap pakai untuk 2025.*
   }
 }
 
+npm install
+
 import makeWASocket, { DisconnectReason } from 'baileys-zakzz'
 import { Boom } from '@hapi/boom'
 
@@ -63,6 +65,5 @@ AlwaysZakzz	wa.me/6282315314215
 Telegram	t.me/AlwaysZakzz
 WhiskeySockets	WhiskeySockets/Baileys
 Node.js Team	nodejs.org
-
 
 © 2025 AlwaysZakzz — All rights reserved.

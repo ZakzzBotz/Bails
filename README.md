@@ -65,6 +65,7 @@ connectToWhatsApp()
 ## Thanks To All Developer
 
 Wa: wa.me/6282315314215
+
 Tele: t.me/AlwaysZakzz
 WhiskeySockets: WhiskeySockets/Baileys
 Node.js: nodejs.org

@@ -64,8 +64,8 @@ connectToWhatsApp()
 
 ## Thanks To All Developer
 
-Wa: [wa.me/6282315314215](https://wa.me/6282315314215)  
-Tele: [t.me/AlwaysZakzz](https://t.me/AlwaysZakzz)  
+WhatsApp: [wa.me/6282315314215](https://wa.me/6282315314215)  
+Telegram: [t.me/AlwaysZakzz](https://t.me/AlwaysZakzz)  
 WhiskeySockets: [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)  
 Node.js: [nodejs.org](https://nodejs.org)  
 

@@ -21,10 +21,12 @@ Fokus utama: *stabil, ringan, cepat, dan siap pakai untuk 2025.*
 
 ## Instalasi
 
-```bash
-npm install baileys-zakzz
-
-## Connection 
+```json
+{
+  "dependencies": {
+    "baileys": "github:ZakzzBotz/Bails"
+  }
+}
 
 import makeWASocket, { DisconnectReason } from 'baileys-zakzz'
 import { Boom } from '@hapi/boom'
@@ -55,11 +57,12 @@ async function connectToWhatsApp() {
 
 connectToWhatsApp()
 
-hanks To All Developer 
+Thanks To All Developer
 
-WhatsApp :	wa.me/6282315314215
-Telegram : t.me/AlwaysZakzz
-WhiskeySockets :	WhiskeySockets/Baileys
-Node.js Team :	nodejs.org
+AlwaysZakzz	wa.me/6282315314215
+Telegram	t.me/AlwaysZakzz
+WhiskeySockets	WhiskeySockets/Baileys
+Node.js Team	nodejs.org
 
-© 2025 AlwaysZakzz
+
+© 2025 AlwaysZakzz — All rights reserved.

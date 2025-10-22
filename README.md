@@ -27,9 +27,11 @@ Fokus utama: *stabil, ringan, cepat, dan siap pakai untuk 2025.*
     "baileys": "github:ZakzzBotz/Bails"
   }
 }
+...
 
-npm install
+## Connecting
 
+``` ts
 import makeWASocket, { DisconnectReason } from 'baileys-zakzz'
 import { Boom } from '@hapi/boom'
 
@@ -58,8 +60,9 @@ async function connectToWhatsApp() {
 }
 
 connectToWhatsApp()
+...
 
-Thanks To All Developer
+## Thanks To All Developer
 
 AlwaysZakzz	wa.me/6282315314215
 Telegram	t.me/AlwaysZakzz

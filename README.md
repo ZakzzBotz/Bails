@@ -64,9 +64,9 @@ connectToWhatsApp()
 
 ## Thanks To All Developer
 
-WhatsApp: wa.me/6282315314215
-Telegram: t.me/AlwaysZakzz
+Wa: wa.me/6282315314215
+Tele: t.me/AlwaysZakzz
 WhiskeySockets: WhiskeySockets/Baileys
-Node.js Team: nodejs.org
+Node.js: nodejs.org
 
 © 2025 AlwaysZakzz — All rights reserved.
